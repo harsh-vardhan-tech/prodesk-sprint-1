@@ -6,6 +6,9 @@ java Script
 
 I made this responsive landing page for the Prodesk IT internship project.
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e4c86f40-d9af-4011-8933-9802f37109b7" />
+
+
 
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/976ad9d2-f7f6-42bd-8834-db192d527ab2" />
