@@ -80,4 +80,3 @@ The Lighthouse audit was run on the deployed website in Chrome using Navigation 
 - Best Practices: 100/100
 - SEO: 100/100
 
-A two-minute QA video should still be added before final submission.
