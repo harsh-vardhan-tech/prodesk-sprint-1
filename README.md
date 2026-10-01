@@ -58,4 +58,22 @@ I used GitHub Copilot as an assistant for checking bugs, improving CSS, understa
 
 The website is deployed on Vercel and can be opened using the live link above.
 
-The Lighthouse result and two-minute QA video should be added before final submission.
+## Lighthouse Audit
+
+The Lighthouse audit was run on the deployed website in Chrome using Navigation mode.
+
+### Desktop
+
+- Performance: 100/100
+- Accessibility: 100/100
+- Best Practices: 100/100
+- SEO: 100/100
+
+### Mobile
+
+- Performance: 90/100
+- Accessibility: 100/100
+- Best Practices: 100/100
+- SEO: 100/100
+
+A two-minute QA video should still be added before final submission.
