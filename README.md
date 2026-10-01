@@ -2,14 +2,21 @@ I made and Responcive Webiste Using
 HTML
 CSS
 java Script
-# Prodesk IT Landing Page
+
+
+## Website Screenshots
 
 I made this responsive landing page for the Prodesk IT internship project.
 
+### Home Page
+
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e4c86f40-d9af-4011-8933-9802f37109b7" />
 
+### Services Section
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd59a6c3-dc4f-47d3-a7ef-2cbf4bd07f42" />
 
+### Contact Section
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/976ad9d2-f7f6-42bd-8834-db192d527ab2" />
 
@@ -49,4 +56,4 @@ I used GitHub Copilot as an assistant for checking bugs, improving CSS, understa
 
 The website is deployed on Vercel and can be opened using the live link above.
 
-A screenshot of the deployed website and the Lighthouse result should be added before final submission.
+
