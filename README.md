@@ -71,7 +71,9 @@ The Lighthouse audit was run on the deployed website in Chrome using Navigation 
 
 ### Mobile
 
-- Performance: 90/100
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/72d5b664-cd90-474d-a5c7-a19408b947c5" />
+
+- Performance: 100/100
 - Accessibility: 100/100
 - Best Practices: 100/100
 - SEO: 100/100
