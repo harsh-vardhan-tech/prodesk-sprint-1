@@ -80,3 +80,7 @@ The Lighthouse audit was run on the deployed website in Chrome using Navigation 
 - Best Practices: 100/100
 - SEO: 100/100
 
+## Demonstration Video
+
+https://github.com/user-attachments/assets/8fd95c07-86f8-4502-8d3f-3d8cb3e689cc
+
