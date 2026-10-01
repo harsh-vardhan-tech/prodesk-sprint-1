@@ -1,24 +1,22 @@
-I made and Responcive Webiste Using 
-HTML
-CSS
-java Script
-
-
-## Website Screenshots
+# Prodesk IT Landing Page
 
 I made this responsive landing page for the Prodesk IT internship project.
 
+## Website Screenshots
+
+These screenshots show the deployed Home, Services and Contact sections.
+
 ### Home Page
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e4c86f40-d9af-4011-8933-9802f37109b7" />
+<img width="1917" height="1078" alt="Prodesk IT Home Page" src="https://github.com/user-attachments/assets/e4c86f40-d9af-4011-8933-9802f37109b7" />
 
 ### Services Section
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd59a6c3-dc4f-47d3-a7ef-2cbf4bd07f42" />
+<img width="1917" height="1078" alt="Prodesk IT Services Section" src="https://github.com/user-attachments/assets/bd59a6c3-dc4f-47d3-a7ef-2cbf4bd07f42" />
 
 ### Contact Section
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/976ad9d2-f7f6-42bd-8834-db192d527ab2" />
+<img width="1917" height="1078" alt="Prodesk IT Contact Section" src="https://github.com/user-attachments/assets/976ad9d2-f7f6-42bd-8834-db192d527ab2" />
 
 ## Live Website
 
@@ -28,7 +26,11 @@ I made this responsive landing page for the Prodesk IT internship project.
 
 - HTML
 - CSS
-- JavaScript
+- Vanilla JavaScript
+- CSS Flexbox and CSS Grid
+- Inline SVG icons
+- JSON-LD structured data
+- Vercel deployment
 
 ## Main Features
 
@@ -56,4 +58,4 @@ I used GitHub Copilot as an assistant for checking bugs, improving CSS, understa
 
 The website is deployed on Vercel and can be opened using the live link above.
 
-
+The Lighthouse result and two-minute QA video should be added before final submission.
