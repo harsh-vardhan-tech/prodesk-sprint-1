@@ -60,9 +60,11 @@ The website is deployed on Vercel and can be opened using the live link above.
 
 ## Lighthouse Audit
 
-The Lighthouse audit was run on the deployed website in Chrome using Navigation mode.
+The Lighthouse audit was run on the deployed website in Chrome using Navigation mode. it is near by 90-100 sometime 100 some time 90 or 90+ .
 
 ### Desktop
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d432cd3a-a7c4-487c-a48d-14ce2636cfa7" />
 
 - Performance: 100/100
 - Accessibility: 100/100
