@@ -6,6 +6,10 @@ java Script
 
 I made this responsive landing page for the Prodesk IT internship project.
 
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/976ad9d2-f7f6-42bd-8834-db192d527ab2" />
+
 ## Live Website
 
 [Open Prodesk IT website](https://prodesk-sprint-1-seven.vercel.app/)
